@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=444
+
+This script provides "did" and "dad" which work like 
+"dib" or "dip" but for unified diffs.
+"did" deletes "@@  .." surrounded blocks from a diff file.
+"dad" deletes the complete diff for one file.
+See the script for more detailed behaviour.
+They have proved to be invaluable for me as I often have to deal with unfied diffs.
